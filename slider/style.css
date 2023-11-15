@@ -16,12 +16,6 @@
   background: #efefef;
 }
 
-.container {
-  max-width: 1220px;
-  width: 100%;
-  padding: 40px 0;
-}
-
 .slide-container {
   margin: 0 30px;
   overflow: hidden;
